@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JungleyNet 每周精选 - 20240313](https://www.jungley.net/weekly-highlights-ai-image-editing-groq-api-ente-open-source-security/)
 - [JungleyNet 每周精选 - 开篇](https://www.jungley.net/weekly-tech-roundup-tts-mac-comflowy-vscode-double/)
 - [小米 AX3000T 路由器 解锁SSH、部署ShellClash开启全家科学上网之路](https://www.jungley.net/unlocking-ssh-and-deploying-shellclash-on-xiaomi-ax3000t-router/)
-- [使用Docker + Traefik + Derper 自建 Tailscale 中继服务器完整教程](https://www.jungley.net/docker-traefik-tailscale-relay-server/)
 <!-- BLOG-POST-LIST:END -->
 
 
