@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Overseas Investment: A Comprehensive Business Strategy](https://www.jungley.net/mastering-overseas-investment-strategy/)
 - [The Ultimate Guide to Overseas Investment: Everything You Need to Know](https://www.jungley.net/ultimate-guide-overseas-investment/)
 - [JungleyNet 每周精选 - 20240313](https://www.jungley.net/weekly-highlights-ai-image-editing-groq-api-ente-open-source-security/)
-- [JungleyNet 每周精选 - 开篇](https://www.jungley.net/weekly-tech-roundup-tts-mac-comflowy-vscode-double/)
 <!-- BLOG-POST-LIST:END -->
 
 
