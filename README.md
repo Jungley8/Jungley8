@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Overseas Investment: A Step-by-Step Roadmap for Companies](https://www.jungley.net/navigating-overseas-investment-roadmap/)
+- [JungleyNet 每周精选 - 20240320](https://www.jungley.net/weekly-highlights-20240320/)
 - [Mastering Overseas Investment: A Comprehensive Business Strategy](https://www.jungley.net/mastering-overseas-investment-strategy/)
-- [The Ultimate Guide to Overseas Investment: Everything You Need to Know](https://www.jungley.net/ultimate-guide-overseas-investment/)
-- [JungleyNet 每周精选 - 20240313](https://www.jungley.net/weekly-highlights-ai-image-editing-groq-api-ente-open-source-security/)
 <!-- BLOG-POST-LIST:END -->
 
 
