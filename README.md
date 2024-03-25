@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to International Business Expansion and Investment](https://www.jungley.net/guide-international-business-expansion/)
-- [Unlocking Success in Overseas Investment Financing for Companies](https://www.jungley.net/unlocking-success-overseas-investment-financing/)
-- [Navigating Overseas Investment: A Step-by-Step Roadmap for Companies](https://www.jungley.net/navigating-overseas-investment-roadmap/)
+- [个人如何把握海外投资房产的时机与地点](https://www.jungley.net/grasping-the-opportunity-and-location-for-overseas-property-investment/)
+- [个人海外投资房产全攻略：从选地到收益](https://www.jungley.net/personal-overseas-real-estate-investment-guide/)
+- [如何跨越国界进行个人海外投资：入门指南](https://www.jungley.net/personal-overseas-investment-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
