@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JungleyNet 每周精选 - 20240327](https://www.jungley.net/weekly-highlights-20240327/)
 - [个人如何把握海外投资房产的时机与地点](https://www.jungley.net/grasping-the-opportunity-and-location-for-overseas-property-investment/)
 - [个人海外投资房产全攻略：从选地到收益](https://www.jungley.net/personal-overseas-real-estate-investment-guide/)
-- [如何跨越国界进行个人海外投资：入门指南](https://www.jungley.net/personal-overseas-investment-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
