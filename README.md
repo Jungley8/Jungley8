@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [数字移民的优惠链接，打开新世界的大门](https://www.jungley.net/how-to-choose-the-right-country-and-project-for-personal-overseas-investment/)
+- [个人海外投资理财秘籍：如何规避风险、获取收益](https://www.jungley.net/personal-overseas-investment-finance-guide/)
 - [JungleyNet 每周精选 - 20240403](https://www.jungley.net/weekly-highlights-20240403/)
-- [中国个人海外投资的先行指导：策略与机遇](https://www.jungley.net/china-personal-overseas-investment-guide/)
-- [JungleyNet 每周精选 - 20240327](https://www.jungley.net/weekly-highlights-20240327/)
 <!-- BLOG-POST-LIST:END -->
 
 
