@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JungleyNet 每周精选 - 20240410](https://www.jungley.net/weekly-highlights-20240419/)
 - [数字移民的优惠链接，打开新世界的大门](https://www.jungley.net/how-to-choose-the-right-country-and-project-for-personal-overseas-investment/)
 - [个人海外投资理财秘籍：如何规避风险、获取收益](https://www.jungley.net/personal-overseas-investment-finance-guide/)
-- [JungleyNet 每周精选 - 20240403](https://www.jungley.net/weekly-highlights-20240403/)
 <!-- BLOG-POST-LIST:END -->
 
 
