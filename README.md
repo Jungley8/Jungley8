@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JungleyNet 每周精选 - 20240424](https://www.jungley.net/weekly-highlights-20240424/)
 - [JungleyNet 每周精选 - 20240417](https://www.jungley.net/jungleynet-mei-zhou-jing-xuan-20240417/)
 - [一文掌握个人海外投资房产的ABC：步骤与注意事项](https://www.jungley.net/personal-overseas-real-estate-investment-abc/)
-- [JungleyNet 每周精选 - 20240410](https://www.jungley.net/weekly-highlights-20240419/)
 <!-- BLOG-POST-LIST:END -->
 
 
