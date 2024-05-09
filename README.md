@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JungleyNet 每周精选-20240508](https://www.jungley.net/weekly-highlights-20240430-2/)
 - [JungleyNet 每周精选 - 20240430](https://www.jungley.net/weekly-highlights-20240430/)
 - [跨国财务规划：个人如何有效进行海外投资理财](https://www.jungley.net/cross-border-financial-planning-effective-personal-overseas-investment/)
-- [JungleyNet 每周精选 - 20240424](https://www.jungley.net/weekly-highlights-20240424/)
 <!-- BLOG-POST-LIST:END -->
 
 
