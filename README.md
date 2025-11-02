@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [JungleyNet 每周精选 - 20240523](https://www.jungley.net/jungleynet-mei-zhou-jing-xuan-20240523/)
-- [JungleyNet 每周精选-20240515](https://www.jungley.net/weekly-highlights-20240515/)
-- [JungleyNet 每周精选-20240508](https://www.jungley.net/weekly-highlights-20240508/)
+- [JungleyNet 每周精选 - 20240523](https://www.jungley.net/blog/jungleynet-mei-zhou-jing-xuan-20240523/)
+- [JungleyNet 每周精选-20240515](https://www.jungley.net/blog/weekly-highlights-20240515/)
+- [JungleyNet 每周精选-20240508](https://www.jungley.net/blog/weekly-highlights-20240508/)
 <!-- BLOG-POST-LIST:END -->
 
 
