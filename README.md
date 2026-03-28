@@ -5,7 +5,7 @@
 
 ## What I'm building
 
-**[OctarqVault](https://github.com/Jungley8/octarq-vault)** — Cross-platform, offline-first, E2EE personal asset manager.
+**[OctarqVault](https://github.com/octarq-org/octarq-vault)** — Cross-platform, offline-first, E2EE personal asset manager.
 Manage domains, VPS, SSL certs, API keys and more — encrypted locally, synced on your terms.
 `Flutter` · `SQLCipher` · `AES-256` · `Self-hosted`
 
