@@ -46,9 +46,9 @@ Every contribution directly improves the tools you rely on.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JungleyNet 每周精选 - 20240523](https://www.jungley.net/blog/jungleynet-mei-zhou-jing-xuan-20240523/)
-- [JungleyNet 每周精选-20240515](https://www.jungley.net/blog/weekly-highlights-20240515/)
-- [JungleyNet 每周精选-20240508](https://www.jungley.net/blog/weekly-highlights-20240508/)
+- [逃离 Vercel 账单刺客：我用 Coolify + 单机 VPS 重构全站部署](https://www.jungley.net/blog/2026-10-30-fleeing-vercel-coolify-self-hosted-vps-guide/)
+- [Google AI Overview 砸碎传统流量后：我的一人公司如何从 SEO 转向 GEO](https://www.jungley.net/blog/2026-10-30-from-seo-to-geo-ai-overview-traffic-survival/)
+- [Next.js 16 与 Deno 变局：2026 全栈框架与运行时避坑指南](https://www.jungley.net/blog/2026-10-30-nextjs-16-and-deno-landscape-fullstack-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
