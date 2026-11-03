@@ -46,9 +46,9 @@ Every contribution directly improves the tools you rely on.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [拆解 DeepSeek Super-agent：从伴随式编程到异步后台员工](https://www.jungley.net/blog/2026-11-03-deepseek-super-agent-architecture-and-async-development/)
 - [我用 Go 重写了 subconverter：subconverter-ng 开发实践](https://www.jungley.net/blog/2026-11-01-subconverter-ng-modern-subscription-converter-in-go/)
 - [subconverter-ng](https://www.jungley.net/work/subconverter-ng/)
-- [逃离 Vercel 账单刺客：我用 Coolify + 单机 VPS 重构全站部署](https://www.jungley.net/blog/2026-10-30-fleeing-vercel-coolify-self-hosted-vps-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
