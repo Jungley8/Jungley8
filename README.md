@@ -46,9 +46,9 @@ Every contribution directly improves the tools you rely on.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [解析朝鲜黑客与币圈大案：国家级黑客组织为何能横扫加密资产](https://www.jungley.net/blog/2026-11-04-why-north-korean-hackers-dominate-crypto-heists/)
 - [拆解 DeepSeek Super-agent：从伴随式编程到异步后台员工](https://www.jungley.net/blog/2026-11-03-deepseek-super-agent-architecture-and-async-development/)
 - [我用 Go 重写了 subconverter：subconverter-ng 开发实践](https://www.jungley.net/blog/2026-11-01-subconverter-ng-modern-subscription-converter-in-go/)
-- [subconverter-ng](https://www.jungley.net/work/subconverter-ng/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
